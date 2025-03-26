@@ -1,10 +1,10 @@
 # School Management System
 
 ## Overview
-The **School Management System** is a Java-based desktop application designed to efficiently manage school administration tasks. It includes features for managing students, teachers, and administrative staff, providing an interactive GUI for seamless user experience.
+The **School Management System** is a Java-based desktop application designed to efficiently manage school administration tasks. It includes features for managing students, teachers, and principles, providing an interactive GUI for seamless user experience.
 
 ## Features
-- **User Authentication**: Secure login system for admins, teachers, and students.
+- **User Authentication**: Secure login system for admins, teachers, students, and principles.
 - **Student Management**: Add, edit, and remove student details.
 - **Teacher Management**: Manage teacher profiles and assignments.
 - **Administrative Functions**: Register school administrators and control system settings.
