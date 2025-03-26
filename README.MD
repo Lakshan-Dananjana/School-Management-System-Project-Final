@@ -28,7 +28,7 @@ Ensure you have the following installed on your system:
 ### Steps to Run the Project
 1. **Clone or Extract the Project**
    ```sh
-   git clone <repository-url>
+   git clone <https://github.com/Lakshan-Dananjana/School-Management-System-Project-Final.git>
    ```
    OR extract the provided ZIP file.
 
@@ -50,7 +50,7 @@ Ensure you have the following installed on your system:
      ```
 
 ## Contributors
-- **Your Name** - Lakshan Dananjana Weerasinghe
+- **Lakshan Dananjana Weerasinghe** - Developer
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
