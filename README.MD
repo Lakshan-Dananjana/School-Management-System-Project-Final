@@ -53,5 +53,5 @@ Ensure you have the following installed on your system:
 - **Lakshan Dananjana Weerasinghe** - Developer
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](License.md) file for details.
 
